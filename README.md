@@ -1,0 +1,1 @@
+O objetivo desta aplicação era a realização da parte Front-End toda, no que consta a Back-End utilizamos a base de dados mongoDb para nos ajudar a guardar coisas necessárias como comentários realizados e filmes adicionados.
